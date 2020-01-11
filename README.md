@@ -8,8 +8,18 @@ In statistics, the logistic model (or logit model) is used to model the probabil
 
 ## Installation 
 ```bash Anaconda ```
+
+
 ```bash Scikit learn  sudo apt install -y Scikit learn ```
+
+
 ```bash Tensorflow   sudo apt install -y Tensorflow ```
+
+
 ```bash Numpy        sudo apt install -y  Numpy ```
+
+
 ```bash Pandas       sudo apt install -y  Pandas  ```
+
+
 ```bash Jupyter Notebook ```
