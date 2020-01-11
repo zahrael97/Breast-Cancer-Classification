@@ -7,19 +7,31 @@ Breast cancer is cancer that develops from breast tissue. Signs of breast cancer
 In statistics, the logistic model (or logit model) is used to model the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead or healthy/sick. This can be extended to model several classes of events such as determining whether an image contains a cat, dog, lion, etc. Each object being detected in the image would be assigned a probability between 0 and 1 and the sum adding to one.
 
 ## Installation 
-```bash Anaconda ```
+```bash 
+Anaconda
+```
 
 
-```bash Scikit learn  sudo apt install -y Scikit learn ```
+```bash 
+Scikit learn  sudo apt install -y Scikit learn 
+```
 
 
-```bash Tensorflow   sudo apt install -y Tensorflow ```
+```bash 
+Tensorflow   sudo apt install -y Tensorflow 
+```
 
 
-```bash Numpy        sudo apt install -y  Numpy ```
+```bash 
+Numpy        sudo apt install -y  Numpy 
+```
 
 
-```bash Pandas       sudo apt install -y  Pandas  ```
+```bash
+Pandas       sudo apt install -y  Pandas  
+```
 
 
-```bash Jupyter Notebook ```
+```bash
+Jupyter Notebook 
+```
