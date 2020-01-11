@@ -15,3 +15,4 @@ Numpy
 
 Pandas 
 
+Jupyter Notebook
