@@ -9,6 +9,8 @@ In statistics, the logistic model (or logit model) is used to model the probabil
 ## Installation 
 Anaconda
 
+Scikit learn
+
 Tensorflow
 
 Numpy 
