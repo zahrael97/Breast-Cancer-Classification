@@ -36,4 +36,5 @@ Pandas       sudo apt install -y  Pandas
 Jupyter Notebook 
 ```
 ## data 
-data are downloaded from another Github Repo, I would liked to the read me 
+data are downloaded from another Github Repo, I would liked to the read me.
+
