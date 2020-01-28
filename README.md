@@ -30,7 +30,7 @@ Numpy        sudo apt install -y  Numpy
 
 
 ```bash
-Pandas       sudo apt install -y  Pandas  
+Pandas       sudo apt install -y  Pandas   
 ```
  
 
